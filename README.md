@@ -3,7 +3,7 @@
 
 <h3>Methods</h3>
 
-<ol>
+<ul>
     <li>GET</li>
     <p>Listar todos os projetos, com possibilidade de filtro pelo titulo.</p>
     <li>POST</li>
@@ -12,4 +12,4 @@
     <p>Atualização de um projeto</p>
     <li>DELETE</li>
     <p>Exclui um projeto</p>
-</ol>
+</ul>

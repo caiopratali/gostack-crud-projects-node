@@ -24,3 +24,6 @@
     <li><strong>Request body</strong></li>
     <p>Conteúdo na hora de criar ou editar um recurso (JSON)</p>
 </ul>
+
+<h3>Middleware</h3>
+<p>Interceptador de requisições que pode interromper totalmente ou alterar dados da requisição.</p>

@@ -26,4 +26,4 @@
 </ul>
 
 <h3>Middleware</h3>
-<p>Interceptador de requisições que pode interromper totalmente ou alterar dados da requisição.</p>
+<p>Interceptador que pode interromper totalmente ou alterar dados da requisição.</p>
